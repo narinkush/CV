@@ -1,0 +1,35 @@
+*{
+    font-family: 'Salsa', cursive; 
+    margin: 0px auto;
+}
+body{
+    padding-top: 10px;
+    background-image: linear-gradient(to right, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+}
+.header{
+    text-align: center;
+}
+.intro h2{
+    color:mediumorchid;
+}
+.myimg{
+    width: 15%;
+    border-radius: 50%;
+}
+h4{
+    color: brown;
+    text-align: center;
+}
+
+li ,p{
+    width: 50%;
+}
+.qualification table{
+    width: 50%;
+}
+.details table{
+    width:50%;
+}
+span{
+    color: chocolate;
+}
